@@ -1,0 +1,2 @@
+# yoangular
+Yeoman Angular Template
